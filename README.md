@@ -3,6 +3,7 @@
 </p>
 <a href="https://nguyenvanchan123.github.io/CV" target="_blank" rel="noopener noreferrer"><img src="https://github.com/nguyenvanchan123/nguyenvanchan123/blob/main/dino.gif" alt="nguyenvanchan123" style="max-width: 100%;"></a>
 
+<!--
 <ul dir="auto">
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on <a href="https://about.facebook.com/" rel="nofollow">Meta</a></p>
@@ -15,6 +16,8 @@
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact <strong>I love to play Soccer and Chai over coffee.</strong></p>
+-->  
+
 </li>
 </ul>
 <h3 dir="auto"><a id="user-content-connect-with-me" class="anchor" aria-hidden="true" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Connect with me:</h3>
