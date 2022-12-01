@@ -36,5 +36,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenvanchan123&show_icons=true" style="max-width: 100%;">
 </p>
 -->
-## If you love OSIF you can buy me a coffee to support this project :)
+## If you love you can buy me a coffee to support this project :)
+<p> </p>
  <a href="https://www.buymeacoffee.com/nguyenvanchan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
