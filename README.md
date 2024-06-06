@@ -53,3 +53,6 @@ ____    ____  __   _______ .___________.   .__   __.      ___      .___  ___.
 <kbd> ## If you love you can buy me a coffee to support this project :) </kbd>
 <p> </p>
  <a href="https://www.buymeacoffee.com/nguyenvanchan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png"  alt="Buy Me A Coffee" height="41" width="174"></a>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nguyen-Van-Chan" alt="Nguyen-Van-Chan"/> </p>
