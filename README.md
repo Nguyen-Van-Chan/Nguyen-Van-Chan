@@ -5,8 +5,11 @@
 </p>
 <a href="https://Nguyen-Van-Chan.github.io/CV/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/Nguyen-Van-Chan/nguyenvanchan123/blob/main/dino.gif" alt="nguyenvanchan123" style="max-width: 100%;"></a>
 
-
-  ```
+<div align="center">
+ 
+![CT_HCM](https://raw.githubusercontent.com/id1945/id1945/main/image/chu-tich-ho-chi-minh/ho-tap-tu-tuong-dao-duc-ho-chi-minh.png)
+ 
+```
 ____    ____  __   _______ .___________.   .__   __.      ___      .___  ___. 
 \   \  /   / |  | |   ____||           |   |  \ |  |     /   \     |   \/   | 
  \   \/   /  |  | |  |__   `---|  |----`   |   \|  |    /  ^  \    |  \  /  | 
@@ -16,9 +19,7 @@ ____    ____  __   _______ .___________.   .__   __.      ___      .___  ___.
                                                                               
 ```
 
-
 </div>
-
 
 
 
